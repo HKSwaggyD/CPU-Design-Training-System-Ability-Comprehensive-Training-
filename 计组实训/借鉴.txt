@@ -1,0 +1,26 @@
+Logisim平台上的单周期和多周期MIPSCPU设计（计组课设模板）：
+http://t.csdnimg.cn/ztkEK
+
+使用logisim设计简易CPU：
+http://t.csdnimg.cn/RSFOd
+
+使用logisim搭建单周期CPU与添加指令：
+http://t.csdnimg.cn/Umt1f
+
+【计算机模型机设计】8指令多周期（硬布线）MIPS CPU设计报告：
+http://t.csdnimg.cn/ASZeY
+
+单周期MIPS CPU设计实验（基于Logisim）：
+http://t.csdnimg.cn/UIeCV
+
+[华中科技计组实验]logisim完成8指令多周期(微程序)MIPS CPU：
+http://t.csdnimg.cn/ijiJR
+
+多周期MIPS(纯硬布线)Logisim：
+http://t.csdnimg.cn/xvrbB
+
+华中科技大学计算机组成原理实验—CPU设计实验报告：
+http://t.csdnimg.cn/5INPm
+
+Mooc：
+计算机硬件系统设计
